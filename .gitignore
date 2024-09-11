@@ -1,0 +1,11 @@
+*.iml
+dist
+node_modules
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+vite.config.ts.timestamp-*.mjs
